@@ -13,7 +13,8 @@ Code :
   <li>created model as <i>Output.joblib</i></li>
 </ul>
 
-Made using <b>RandomTreeRegressor</b> so as to minimize the error ,thus predicting the Price of the Houses nearly to accurate value.
+Made using <b>RandomTreeRegressor</b> so as to minimize the error ,thus predicting the Price 
+<br>of the Houses nearly to accurate value.
 <br>
 <br>
 <br>
